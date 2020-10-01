@@ -1,6 +1,6 @@
 # Hey there
 
-### Hello World 👋 It's me [Uday Yadav!](https://github.com/dev117uday)
+### Hello World 👋 It's me [Harshit Yadav!](https://github.com/harshityadav95)
 
 <p align="center">
   <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130">
