@@ -12,11 +12,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-mail_me-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:harshityadav95@gmail.com)](mailto:harshityadav95@gmail.com)
 <br>
 
-
-
 Hi,I'm Harshit Yadav ! I'm a Software Engineer interested in working on everything from Skynet to cross platform development and Dev-Ops,and I'm an hobbiyist electronics guy too. Glad that you visited my profile!
-
-**About me:**
-
-
-![](https://img.shields.io/badge/Golang-%7C-0%2C%2022%2C%20100)![](https://img.shields.io/badge/JavaScript-%7C-0%2C%2022%2C%20100)  ![](https://img.shields.io/badge/Web%20Development-%7C-red)    ![](https://img.shields.io/badge/C++-%7C-yellowgreen)   ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
