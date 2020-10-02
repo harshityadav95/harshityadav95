@@ -16,11 +16,6 @@
 
 Hi,I'm Harshit Yadav ! I'm a Software Engineer interested in working on everything from Skynet to cross platform development and Dev-Ops,and I'm an hobbiyist electronics guy too. Glad that you visited my profile!
 
-
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
-
-
 **About me:**
 
 
@@ -40,10 +35,3 @@ Hi,I'm Harshit Yadav ! I'm a Software Engineer interested in working on everythi
 
 <b>Code Blog site : <b> <br>
 [<button class="mh-button mh-b1">Code Blog</button>](https://harshityadav95.blogspot.com/)
-
-
-
-
-
-
-
