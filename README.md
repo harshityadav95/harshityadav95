@@ -13,7 +13,7 @@
 <br>
  
 
-Hi,I'm Harshit Yadav ! I'm a Software Engineer interested in working on everything from Skynet to cross platform development and Dev-Ops,and I'm an hobbiyist electronics guy too. Glad that you visited my profile!
+Hi,I'm Harshit Yadav ! I'm a Software Engineer working on everything from Skynet to best pasta sauce and I'm an hobbiyist electronics guy too. Glad that you visited my profile!
 
 Visit my Website [harshityadav.in](https://harshityadav.in)
   
