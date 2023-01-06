@@ -15,7 +15,7 @@
 
 Hi,I'm Harshit Yadav ! I'm a Software Engineer working on everything from Skynet to best pasta sauce and I'm an hobbiyist electronics guy too. Glad that you visited my profile!
 
-Visit my Website [harshityadav.in](https://harshityadav.in)
+- Visit my Website [harshityadav.in](https://harshityadav.in)
   
-Or Visit my [Peerlist Profile](https://peerlist.io/harshityadav95)
+- Visit my [Peerlist Profile](https://peerlist.io/harshityadav95)
   
