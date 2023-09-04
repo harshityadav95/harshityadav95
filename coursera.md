@@ -1,5 +1,10 @@
 
-
+## Java Basic Structures: Arrays, Strings, and Files
+- Issuing Organization: Coursera
+- Issue Date: September 2023
+- Expiration Date: This certification does not expire
+- Credential ID: 87VAXYU7ZJSJ
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/87VAXYU7ZJSJ
 
  ## Version Control
 - Issuing Organization: Coursera
