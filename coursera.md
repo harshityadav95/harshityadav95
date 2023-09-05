@@ -1,4 +1,11 @@
 
+## Azure: Network Security
+- Issuing Organization:Coursera
+- Issue Date:September 2023
+- Expiration Date:This certification does not expire
+- Credential ID:WDZWM7CLJZLQ
+- Credential URL:https://www.coursera.org/account/accomplishments/certificate/WDZWM7CLJZLQ
+
 ## Java Basic Structures: Arrays, Strings, and Files
 - Issuing Organization: Coursera
 - Issue Date: September 2023
